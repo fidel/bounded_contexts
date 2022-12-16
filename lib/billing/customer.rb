@@ -1,4 +1,6 @@
 # frozen_string_literal: true
 
-class Customer
+module Billing
+  class Customer
+  end
 end
